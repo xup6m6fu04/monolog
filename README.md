@@ -1,5 +1,4 @@
-# 愛上新鮮 PSR-3 monolog demo code
-monolog demo
+# PSR-3 monolog demo code
 
 ## 主程式位置 /public/index.php
 
