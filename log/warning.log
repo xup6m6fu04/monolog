@@ -1,0 +1,7 @@
+[2017-12-26 03:01:46] name.WARNING: Foo ["a","b","c"] []
+[2017-12-26 03:01:46] name.ERROR: Bar ["a","b","c"] []
+[2017-12-26 03:02:03] name.WARNING: Foo ["a","b","c"] []
+[2017-12-26 03:02:03] name.ERROR: Bar ["a","b","c"] []
+[2017-12-26 03:02:48] name.WARNING: Foo ["a","b","c"] []
+[2017-12-26 03:02:48] name.ERROR: Bar ["a","b","c"] []
+[2017-12-26 03:02:48] name.CRITICAL: AAA ["a","b","c"] []
